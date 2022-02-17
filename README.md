@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing stuff...
 - 🌱 I’m currently learning and working with HTML, CSS, PHP and JavaScript...
 - 💻Working as a Trainee.
-- 🙌 Future Full-Stack Web Developer.
+- 🙌 Full-Stack Web Developer.
 
 <div align="center">
   <a href="https://github.com/kaykegaldiano">
