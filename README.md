@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @kaykegaldiano
 - 👀 I’m interested in web developing stuff...
 - 🌱 I’m currently learning and working with HTML, CSS, PHP and JavaScript...
-- 💻Working as a Junior Developer.
+- 💻Working as a Full Stack Developer.
 - 🙌 Full-Stack Web Developer.
 
 <div align="center">
