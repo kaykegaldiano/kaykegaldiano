@@ -1,10 +1,9 @@
 ## Hello, I'm Kayke Galdiano and I work as a Web Developer
 
 - 👋 Hi, I’m @kaykegaldiano
-- 👀 I’m interested in web developing stuff...
-- 🌱 I’m currently learning and working with HTML, CSS, PHP and JavaScript...
-- 💻Working as a Full Stack Developer.
-- 🙌 Full-Stack Web Developer.
+- 👀 I’m interested in development stuff...
+- 🌱 I’m currently working with HTML, CSS, PHP and JavaScript...
+- 💻 I Work as a Full Stack Developer at Condoblue.
 
 <div align="center">
   <a href="https://github.com/kaykegaldiano">
