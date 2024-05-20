@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @kaykegaldiano
 - 👀 I’m interested in web development stuff...
-- 🌱 I’m currently working with HTML, CSS, PHP, JavaScript, Laravel, Livewire TailwindCSS, VueJS and AlpineJS
+- 🌱 I’m currently working with PHP, JavaScript, Laravel, Livewire TailwindCSS, VueJS and AlpineJS
 - 💻 I Work as a Full Stack Developer at Fairy Solutions.
 - 🙋‍♂️ Feel free to contact me if you want!
 
