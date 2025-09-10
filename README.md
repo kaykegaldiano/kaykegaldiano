@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @kaykegaldiano
 - 👀 I’m interested in web development stuff...
-- 🌱 I’m currently working with PHP, JavaScript, Laravel, Livewire TailwindCSS, VueJS and AlpineJS
+- 🌱 I’m currently working with PHP, Node.js, TypeScript, Laravel, Livewire TailwindCSS, VueJS and AlpineJS
 - 💻 I Work as a Full Stack Developer at Compliance Solucoes.
 - 🙋‍♂️ Feel free to contact me if you want!
 
